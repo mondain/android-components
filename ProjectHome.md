@@ -1,0 +1,1 @@
+This project contains classes that are intended to extend the functionality of Android.
